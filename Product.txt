@@ -1,3 +1,5 @@
 product işlemler.....
 remote da değişiklikler ekledik.
 mstf branchi textini tamamladı
+
+diğer dev öz ekledi.
